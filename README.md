@@ -103,7 +103,7 @@
 
  2、所有脚本的cookie都可以备份，方便你迁移到其他支持box的软件。
 
- 3、box可以支持多账号
+ 3、box可以支持多账号.
 
 ### 赞赏码(开发维护不易,请赏杯茶水费)
 <div align=center><img width="250" height="250" src="https://raw.githubusercontent.com/qqlogin/scripts-jd/main/icon/thanks.jpg"/></div>
